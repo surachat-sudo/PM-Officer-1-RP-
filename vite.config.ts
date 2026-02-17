@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/PM-Officer-1-RP/', //
+  base: '/PM-Officer-1-RP-/',
 })
