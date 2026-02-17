@@ -1,0 +1,8 @@
+{
+  "name": "PM Office Personnel Directory",
+  "description": "A comprehensive directory for the Office of the Prime Minister of Thailand, featuring executive profiles, department listings, and an interactive organizational structure with AI-powered search.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
